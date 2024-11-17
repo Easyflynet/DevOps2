@@ -27,6 +27,8 @@ HTTP (80) і SSH (22): дозволено з 0.0.0.0/0.
 Після цього інстансу призначено публічну IP-адресу.
 ###############################ЦІ КРОКИ Я ВИРІШИВ ЗРОБИТИ АВТОМАТИЧНО, ТОМУ ЩО ЗНАЮ РУЧНИЙ ПРОЦЕСС######################################
 
+P.S. Були проблеми з elastic ip та security groups. Та наче я це розрулив.
+
 
 ![Screenshot_1](https://github.com/user-attachments/assets/9c19df31-cece-4247-acbc-68829183f171)
 ![security-rules](https://github.com/user-attachments/assets/d34f10f2-2bfa-406a-a7df-45a7909b8ab5)
